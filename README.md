@@ -1,0 +1,1 @@
+The Number Guessing Game is an interactive game where the computer randomly selects a number between 100 and 500. The player tries to guess the number, and after each attempt, the game tells if the guess is too high or too low. The game continues until the player guesses correctly, tracking the number of attempts.
